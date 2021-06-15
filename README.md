@@ -5,4 +5,4 @@ How to make uis with WinForms
 https://www.youtube.com/watch?v=A_7sMpU8Gjo
 
 How to make uis with WPF
-https://www.youtube.com/watch?v=3IRXAf4eNuc
+https://www.youtube.com/watch?v=F-Z2qiUhkf4
